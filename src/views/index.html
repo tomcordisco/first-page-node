@@ -1,0 +1,48 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+        <%= title %>
+    </title>
+    <%- include('partials/head.html') %>
+
+</head>
+
+<body>
+
+    <%- include('partials/navigation.html') %>
+
+    <div class="container">
+        <header class="row p-4 m-4">
+            <div class="col-lg-12 p-5 m-5 text-center">
+                <img src="/img/logo.png" class="animate__animated animate__rotateIn" alt="Logo">
+            </div>
+        </header>
+    </div>
+    
+    <!-- SECTION ONE -->
+    <div class="container-fluid" id="about">
+        <div class="row bg-dark text-white p-5 text-center">
+          <div class="col-sm-6">
+            <i class="fas fa-music fa-10x"></i>  
+          </div>
+          <div class="col-sm-6">
+            <h3>TC Music is all you need</h3>
+            <p>
+              <span>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis, quos? 
+                  Fuga recusandae atque accusantium animi, ab consectetur commodi odit quibusdam, 
+                  ipsum, inventore fugiat exercitationem neque cupiditate impedit reprehenderit sequi quae.</span>
+            </p>
+          </div>
+        </div>
+      </div>
+  
+      <!-- FOOTER -->
+      <%- include('partials/footer.html') %>
+
+</body>
+
+</html>
