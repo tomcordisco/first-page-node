@@ -1,6 +1,6 @@
 ENGLISH BELLOW
 -----------------------------------------------------------------------------------------
-Es una página que conbina backend con frontend. Las tecnologías que utilicé fueron:
+Es una página que combina backend con frontend. Las tecnologías que utilicé fueron:
 Node.js, Express.js, Bootstrap, HTML, CSS.
 -----------------------------------------------------------------------------------------
 It is a page that combines the backend with the frontend. The technologies I used were:
