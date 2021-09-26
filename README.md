@@ -1,12 +1,10 @@
-ENGLISH BELLOW
------------------------------------------------------------------------------------------
 Es una página que combina backend con frontend. Las tecnologías que utilicé fueron:
 Node.js, Express.js, Bootstrap, HTML, CSS.
 -----------------------------------------------------------------------------------------
 It is a page that combines the backend with the frontend. The technologies I used were:
 Node.js, Express.js, Bootstrap, HTML, CSS.
 -----------------------------------------------------------------------------------------
-PREVIEW:
+Preview:
 -----------------------------------------------------------------------------------------
 ![Captura de pantalla 2021-09-22 214450](https://user-images.githubusercontent.com/58890694/134440087-88bc8742-3996-4775-a46a-7de8248b2322.png)
 ![Captura de pantalla 2021-09-22 214520](https://user-images.githubusercontent.com/58890694/134440095-83953d96-89c8-4b40-b227-3301b0f6521e.png)
